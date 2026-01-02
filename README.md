@@ -36,7 +36,7 @@ Initially, the project aimed to use **OpenStack** (including DevStack, MicroStac
 
 ## Technical Evidence
 The following documentation supports the implementation milestones:
-* **vpn-client-handshake-success.png**: Logs confirming successful tunnel initialization.
-* **private-ip-ping-verification.png**: Evidence of successful ICMP communication over the private tunnel.
+* **vpn-client-initialization.png**: Logs confirming successful tunnel initialization.
+* **hybrid-ping-test-success.png**: Evidence of successful ICMP communication over the private tunnel.
 * **security-group-inbound-rules.png**: Detailed view of AWS ingress rules.
-* **vpn-server-active-status.png**: Confirmation of the OpenVPN service health on the AWS gateway.
+* **aws-vpn-server-status.png**: Confirmation of the OpenVPN service health on the AWS gateway.
